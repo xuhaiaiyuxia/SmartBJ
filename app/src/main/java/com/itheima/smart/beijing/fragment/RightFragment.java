@@ -77,25 +77,15 @@ public class RightFragment extends BaseFragment {
         swichPage();
     }
 
+    public BasePage getSelectPage() {
+
+       return mViews.get(selectIndex);
+    }
+
+
+
     @Override
     protected void initEvent() {
-       /* mVpContents.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
-            @Override
-            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-
-            }
-
-            @Override
-            public void onPageSelected(int position) {
-              RadioButton rb = (RadioButton) mRgBtns.getChildAt(position);
-                rb.setChecked(true);
-            }
-
-            @Override
-            public void onPageScrollStateChanged(int state) {
-
-            }
-        });*/
 
 
 

@@ -7,6 +7,7 @@ import android.support.v4.app.FragmentTransaction;
 import com.itheima.smart.beijing.R;
 import com.itheima.smart.beijing.fragment.LeftFragment;
 import com.itheima.smart.beijing.fragment.RightFragment;
+import com.itheima.smart.beijing.page.BasePage;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity;
 
@@ -31,6 +32,8 @@ public class HomeActivity extends SlidingFragmentActivity {
         initEvent();
     }
 
+
+
     private void initView() {
         setBehindContentView(R.layout.item_sliding_left);
         // configure the SlidingMenu
@@ -54,7 +57,7 @@ public class HomeActivity extends SlidingFragmentActivity {
     }
 
     private void initData() {
-        FragmentManager mFragmentManager = getSupportFragmentManager();
+        mFragmentManager = getSupportFragmentManager();
         FragmentTransaction fragmentTransaction = mFragmentManager.beginTransaction();
         fragmentTransaction.replace(R.id.fl_left,new LeftFragment(),LEFT_TAG);
         fragmentTransaction.replace(R.id.fl_right,new RightFragment(),RIGHT_TAG);
@@ -66,11 +69,12 @@ public class HomeActivity extends SlidingFragmentActivity {
     }
 
     public LeftFragment getLeftFragment() {
-        return (LeftFragment) mFragmentManager.getFragment(null,LEFT_TAG);
+        LeftFragment leftFragment = (LeftFragment) mFragmentManager.findFragmentByTag(LEFT_TAG);
+        return leftFragment;
     }
 
     public RightFragment getRightFragment() {
-        return (RightFragment) mFragmentManager.getFragment(null,RIGHT_TAG);
+        return (RightFragment) mFragmentManager.findFragmentByTag(RIGHT_TAG);
     }
 
 }

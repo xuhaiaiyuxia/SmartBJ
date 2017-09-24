@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import org.apache.commons.io.IOUtils;
@@ -45,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         x.view().inject(this);
         tv_id.setText("chhanghxshafa");
+        ImageView imageView = (ImageView) findViewById(R.id.iv_id);
+        x.image().bind(imageView,"http://pic4.nipic.com/20091212/1275046_212219786758_2.jpg");
     }
 
     @Event(type= View.OnClickListener.class,value = R.id.btn_id)
@@ -68,6 +71,8 @@ public class MainActivity extends AppCompatActivity {
                        message.obj = result;
                        mHandler.sendMessage(message);
 //                      tv_id.setText(result);
+
+//                       ddsad
                    }
                } catch (Exception e) {
                    e.printStackTrace();

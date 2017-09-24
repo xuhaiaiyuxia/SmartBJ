@@ -123,8 +123,8 @@ Acom.jeremyfeinstein.slidingmenu.lib.app.SlidingPreferenceActivity¡E:\AndroidS
 1com.jeremyfeinstein.slidingmenu.lib.MenuInterface+2 720de6d26d062d55533319dcfc2976b0:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822¸
 Hcom.jeremyfeinstein.slidingmenu.lib.CustomViewAbove$OnPageChangeListener+"2 7da40b1476c49e6b0f2e1fd96ee210c9:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822›
 /com.jeremyfeinstein.slidingmenu.lib.BuildConfig+2 7242e7a37cce394e897b560f244062f7:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822­
-;com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivityBase+"
-2 5181c7be0494ce43f18f7a7b35154c27:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822«
+;com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivityBase+"
+2 5181c7be0494ce43f18f7a7b35154c27:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822«
 <com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$SavedState$1+*2!-1c3f12cbc5a80e0960b4dea996d8fc3e:!-2be2732670ff4dfb167ff6671307bd82B 0d12c6d437fc20ec2cf06126cb00c02b2–
 *com.jeremyfeinstein.slidingmenu.lib.R$attr+2!-5588c087ea1914a4c7e9df86eb977be1:!-2be2732670ff4dfb167ff6671307bd82B 23bdaf59ea54763e9a21e2bf7f3702f22(
 android.os.Parcelable$Creator"2 : B 20
@@ -134,7 +134,7 @@ Hcom.jeremyfeinstein.slidingmenu.lib.CustomViewAbove$OnPageChangeListener+"2
 :com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$SavedState 2!-7818099a1fbc39808440dea50251835b:!-2be2732670ff4dfb167ff6671307bd82B 75fc9564c56f0d393461ab68dde432112—
 ,com.jeremyfeinstein.slidingmenu.lib.R$layout+2 3d13c5ca04bfa3fa4b483523b2469bf4:!-2be2732670ff4dfb167ff6671307bd82B 23bdaf59ea54763e9a21e2bf7f3702f22À
 Ncom.jeremyfeinstein.slidingmenu.lib.CustomViewAbove$SimpleOnPageChangeListener+**2 3c923d1774c710089a35c5a6e86de2fd:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822µ
-Acom.jeremyfeinstein.slidingmenu.lib.SlidingMenu$CanvasTransformer+""%#2!-7d46e7b825670bbe6a87b7693d81a2d7:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822”
+Acom.jeremyfeinstein.slidingmenu.lib.SlidingMenu$CanvasTransformer+"%#"2!-7d46e7b825670bbe6a87b7693d81a2d7:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822”
 (com.jeremyfeinstein.slidingmenu.lib.R$id+2!-328cea25da33fc1cd908f6b77d639469:!-2be2732670ff4dfb167ff6671307bd82B 23bdaf59ea54763e9a21e2bf7f3702f22#
 android.app.ListActivity2 : B 2¬
 ?com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnCloseListener+2!-6ff7948ef9f4ef7c38e4c6944c94ea76:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822§
@@ -144,7 +144,7 @@ Acom.jeremyfeinstein.slidingmenu.lib.SlidingMenu$CanvasTransformer+""%#2!-7d
 4com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind2 0c3ab47a46df1943cdce53f6c73abb19: 0a1b50b52934fdfd27239f45c4048ea1B!-2be2732670ff4dfb167ff6671307bd822­
 ?com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivityHelper$1+*2 1f03a48973136c9ac0b77676af4aab0c:!-2be2732670ff4dfb167ff6671307bd82B 45e3da4e2e4c15cffcc6f5463894598e2 
 1com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$2+*2!-709d55e87458233555253a7b9f583e44:!-2be2732670ff4dfb167ff6671307bd82B 4aa72dfda721b0af04547f9729ff13672"
-android.view.ViewGroup 2 : B 2¡
+android.view.ViewGroup 2 : B 2¡
 1com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$1+*2!-577029b708867a6bf24f6a397dd4bd51:!-2be2732670ff4dfb167ff6671307bd82B!-4d6f3074d9f95d919cbed36059b72fa52§
 <com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder+2 39c117506368241bd51932e1b5a931c5:!-2be2732670ff4dfb167ff6671307bd82B 6d90570178c573bcc849542b8366c5492­
 >com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder$2+*2 42295095bf271de1fe68758c46c6de59:!-2be2732670ff4dfb167ff6671307bd82B!-774644bac972cd5f6ba174606ecd0f232°
@@ -163,7 +163,7 @@ Acom.jeremyfeinstein.slidingmenu.lib.app.SlidingPreferenceActivity	*2 51f7a82
 5com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove$1+*2!-5d6f21a198a36fe885a1e56735654363:!-2be2732670ff4dfb167ff6671307bd82B 0d12c6d437fc20ec2cf06126cb00c02b2(
 android.widget.RelativeLayout.2 : B 2¡
 5com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove$22!-27d912268f4b429e6d8a4da1a022fe7f:!-2be2732670ff4dfb167ff6671307bd82B 4438546c0f265c995f5b6c2b50cd23d326
-java.lang.Object!%'&/"#(,2 : B 2‘
+java.lang.Object!#'%",&/(2 : B 2‘
 %com.jeremyfeinstein.slidingmenu.lib.R+2 16eabcb20b58c3244e9ee26566f913f5:!-2be2732670ff4dfb167ff6671307bd82B!-2be2732670ff4dfb167ff6671307bd822
 android.app.Activity2 : B 2›
 /com.jeremyfeinstein.slidingmenu.lib.SlidingMenu)2!-52424d5dbb78c436af025ef895035738: 4e22fd99eaf376a11b2b25ecc02d9d5aB!-7f17ca8f44bd4e02aac827c91bc16c442¬
@@ -371,48 +371,48 @@ l
 @com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnOpenedListener3com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove/com.jeremyfeinstein.slidingmenu.lib.SlidingMenu*n
 _E:\android_dev\android-sdk_r24.4.1-windows\android-sdk-windows\platforms\android-26\android.jarÄ©õ•ÇW˜Í“œ*¦
 –E:\android_dev\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar²àˆ˜ÇW‚Áİˆ2¥
-•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$1.classğØ­½ÔWûĞÅ2ª
-šE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState.classâÙ­½ÔW”Ó©Ú2®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$2.classˆÚ­½ÔWüÕ—Ó	2¯
-ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper$1.class¦Û­½ÔWö¥´ÿ2¯
-ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingFragmentActivity.classÄÛ­½ÔWœÊÅÏ2®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$5.classªÚ­½ÔWÌÏÄô2š
-ŠE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$attr.classØ­½ÔWÚÄ‰È2¬
-œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState$1.classŞÙ­½ÔWşæàã2¸
-¨E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$OnPageChangeListener.classôØ­½ÔWÎ¢ı2§
-—E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivity.class”Û­½ÔWÄ¡Ô¬2«
-›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingListActivity.classÚÛ­½ÔWº¨ğ
+•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$1.class²úíªÖWûĞÅ2ª
+šE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState.classòûíªÖW”Ó©Ú2®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$2.classÜüíªÖWüÕ—Ó	2¯
+ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper$1.classÈıíªÖWö¥´ÿ2¯
+ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingFragmentActivity.classæıíªÖWœÊÅÏ2®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$5.classâüíªÖWÌÏÄô2š
+ŠE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$attr.classùíªÖWÚÄ‰È2¬
+œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState$1.classğûíªÖWşæàã2¸
+¨E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$OnPageChangeListener.class²úíªÖWÎ¢ı2§
+—E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivity.class´ıíªÖWÄ¡Ô¬2«
+›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingListActivity.class„şíªÖWº¨ğ
 2¡
-‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$2.classèÙ­½ÔWøÈğÏ2£
-“E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove.classÙ­½ÔWÚùÜ¤2¡
-‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$1.classÚÙ­½ÔWÎ–åŸ2¯
- E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnClosedListener.classÒÙ­½ÔWÀïf2®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$1.class†Ú­½ÔW–™å2¥
-•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$2.class€Ù­½ÔW´ì‚«2®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$3.classŒÚ­½ÔWÈ»ÈÚ2®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$6.class®Ú­½ÔWÆîå¢2­
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper.class²Û­½ÔWî‡¦¯2¤
-”E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewBehind.classîÚ­½ÔWâÏ‚2±
-¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$CanvasTransformer.classÖÙ­½ÔW†ÜÍ§2¾
-®E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$SimpleOnPageChangeListener.classúØ­½ÔWÖ­öó2®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$4.classÚ­½ÔW‚¾‘¿2¬
-œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder.class¶Ú­½ÔW¼İøÓ2°
- E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenedListener.classÌÙ­½ÔWìÜ¿”2Ÿ
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu.classôÙ­½ÔW®æ´2«
-›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityBase.class˜Û­½ÔWÄÇ³´2±
-¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingPreferenceActivity.classòÛ­½ÔW¼‡Úş2¡
-‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\MenuInterface.classöÚ­½ÔWäâ…Ÿ2¯
-ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnCloseListener.classĞÙ­½ÔW¨›ïî2œ
-ŒE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$layout.classªØ­½ÔWÂĞú2˜
-ˆE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$id.class¢Ø­½ÔWòÀÜÁ2Ÿ
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$styleable.class®Ø­½ÔWÌš£¹2•
-…E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R.class²Ø­½ÔWôÌİµ2Ÿ
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\BuildConfig.class–Ø­½ÔWŒÑŠ®2®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenListener.classÊÙ­½ÔW”¼Ê:‚
+‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$2.classøûíªÖWøÈğÏ2£
+“E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove.classÄúíªÖWÚùÜ¤2¡
+‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$1.classîûíªÖWÎ–åŸ2¯
+ E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnClosedListener.classŞûíªÖWÀïf2®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$1.classÚüíªÖW–™å2¥
+•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$2.class¶úíªÖW´ì‚«2®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$3.classŞüíªÖWÈ»ÈÚ2®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$6.classäüíªÖWÆîå¢2­
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper.classÌıíªÖWî‡¦¯2¤
+”E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewBehind.classıíªÖWâÏ‚2±
+¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$CanvasTransformer.classŞûíªÖW†ÜÍ§2¾
+®E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$SimpleOnPageChangeListener.class´úíªÖWÖ­öó2®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$4.classàüíªÖW‚¾‘¿2¬
+œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder.classæüíªÖW¼İøÓ2°
+ E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenedListener.classÜûíªÖWìÜ¿”2Ÿ
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu.classÊüíªÖW®æ´2«
+›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityBase.class¶ıíªÖWÄÇ³´2±
+¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingPreferenceActivity.classÄşíªÖW¼‡Úş2¡
+‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\MenuInterface.class ıíªÖWäâ…Ÿ2¯
+ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnCloseListener.classÜûíªÖW¨›ïî2œ
+ŒE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$layout.class”ùíªÖWÂĞú2˜
+ˆE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$id.class’ùíªÖWòÀÜÁ2Ÿ
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$styleable.classÒùíªÖWÌš£¹2•
+…E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R.classÔùíªÖWôÌİµ2Ÿ
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\BuildConfig.classŒùíªÖWŒÑŠ®2®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenListener.classÚûíªÖW”¼Ê:‚
 sE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\CustomViewBehind.javaÌÜöÓWÀìà‹:‘
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\generated\source\r\release\com\jeremyfeinstein\slidingmenu\lib\R.java¢Ô­½ÔWÊòä:‰
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\generated\source\r\release\com\jeremyfeinstein\slidingmenu\lib\R.javaš‘ƒªÖWÊòä:‰
 zE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityBase.javaœÌÜöÓWüŸŒü:¥
-•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\generated\source\buildConfig\release\com\jeremyfeinstein\slidingmenu\lib\BuildConfig.java¦Ò­½ÔWÆÉƒÀ:}
+•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\generated\source\buildConfig\release\com\jeremyfeinstein\slidingmenu\lib\BuildConfig.java¢ƒªÖWÆÉƒÀ:}
 nE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu.java”ÌÜöÓW¾ø¸¡:‹
 |E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper.javaÌÜöÓWĞá¦ş:‰
 zE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingListActivity.java¤ÌÜöÓW¼È°ë:
@@ -422,41 +422,41 @@ rE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\s
 {E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder.javaˆÌÜöÓW²ˆ¡à:
 pE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\MenuInterface.java’ÌÜöÓW¦ÖİŒ:
 ~E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\src\com\jeremyfeinstein\slidingmenu\lib\app\SlidingFragmentActivity.java¢ÌÜöÓWô’ŠÓ	R¥
-•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$1.classğØ­½ÔWûĞÅRª
-šE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState.classâÙ­½ÔW”Ó©ÚR®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$2.classˆÚ­½ÔWüÕ—Ó	R¯
-ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper$1.class¦Û­½ÔWö¥´ÿR¯
-ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingFragmentActivity.classÄÛ­½ÔWœÊÅÏR®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$5.classªÚ­½ÔWÌÏÄôRš
-ŠE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$attr.classØ­½ÔWÚÄ‰ÈR¬
-œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState$1.classŞÙ­½ÔWşæàãR¸
-¨E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$OnPageChangeListener.classôØ­½ÔWÎ¢ıR§
-—E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivity.class”Û­½ÔWÄ¡Ô¬R«
-›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingListActivity.classÚÛ­½ÔWº¨ğ
+•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$1.class²úíªÖWûĞÅRª
+šE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState.classòûíªÖW”Ó©ÚR®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$2.classÜüíªÖWüÕ—Ó	R¯
+ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper$1.classÈıíªÖWö¥´ÿR¯
+ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingFragmentActivity.classæıíªÖWœÊÅÏR®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$5.classâüíªÖWÌÏÄôRš
+ŠE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$attr.classùíªÖWÚÄ‰ÈR¬
+œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$SavedState$1.classğûíªÖWşæàãR¸
+¨E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$OnPageChangeListener.class²úíªÖWÎ¢ıR§
+—E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivity.class´ıíªÖWÄ¡Ô¬R«
+›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingListActivity.class„şíªÖWº¨ğ
 R¡
-‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$2.classèÙ­½ÔWøÈğÏR£
-“E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove.classÙ­½ÔWÚùÜ¤R¡
-‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$1.classÚÙ­½ÔWÎ–åŸR¯
- E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnClosedListener.classÒÙ­½ÔWÀïfR®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$1.class†Ú­½ÔW–™åR¥
-•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$2.class€Ù­½ÔW´ì‚«R®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$3.classŒÚ­½ÔWÈ»ÈÚR®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$6.class®Ú­½ÔWÆîå¢R­
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper.class²Û­½ÔWî‡¦¯R¤
-”E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewBehind.classîÚ­½ÔWâÏ‚R±
-¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$CanvasTransformer.classÖÙ­½ÔW†ÜÍ§R¾
-®E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$SimpleOnPageChangeListener.classúØ­½ÔWÖ­öóR®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$4.classÚ­½ÔW‚¾‘¿R¬
-œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder.class¶Ú­½ÔW¼İøÓR°
- E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenedListener.classÌÙ­½ÔWìÜ¿”RŸ
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu.classôÙ­½ÔW®æ´R«
-›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityBase.class˜Û­½ÔWÄÇ³´R±
-¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingPreferenceActivity.classòÛ­½ÔW¼‡ÚşR¡
-‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\MenuInterface.classöÚ­½ÔWäâ…ŸR¯
-ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnCloseListener.classĞÙ­½ÔW¨›ïîRœ
-ŒE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$layout.classªØ­½ÔWÂĞúR˜
-ˆE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$id.class¢Ø­½ÔWòÀÜÁRŸ
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$styleable.class®Ø­½ÔWÌš£¹R•
-…E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R.class²Ø­½ÔWôÌİµRŸ
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\BuildConfig.class–Ø­½ÔWŒÑŠ®R®
-E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenListener.classÊÙ­½ÔW”¼ÊZ–E:\android_dev\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jarZ_E:\android_dev\android-sdk_r24.4.1-windows\android-sdk-windows\platforms\android-26\android.jar
+‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$2.classøûíªÖWøÈğÏR£
+“E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove.classÄúíªÖWÚùÜ¤R¡
+‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$1.classîûíªÖWÎ–åŸR¯
+ E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnClosedListener.classŞûíªÖWÀïfR®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$1.classÚüíªÖW–™åR¥
+•E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$2.class¶úíªÖW´ì‚«R®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$3.classŞüíªÖWÈ»ÈÚR®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$6.classäüíªÖWÆîå¢R­
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityHelper.classÌıíªÖWî‡¦¯R¤
+”E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewBehind.classıíªÖWâÏ‚R±
+¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$CanvasTransformer.classŞûíªÖW†ÜÍ§R¾
+®E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CustomViewAbove$SimpleOnPageChangeListener.class´úíªÖWÖ­öóR®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder$4.classàüíªÖW‚¾‘¿R¬
+œE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\CanvasTransformerBuilder.classæüíªÖW¼İøÓR°
+ E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenedListener.classÜûíªÖWìÜ¿”RŸ
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu.classÊüíªÖW®æ´R«
+›E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingActivityBase.class¶ıíªÖWÄÇ³´R±
+¡E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\app\SlidingPreferenceActivity.classÄşíªÖW¼‡ÚşR¡
+‘E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\MenuInterface.class ıíªÖWäâ…ŸR¯
+ŸE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnCloseListener.classÜûíªÖW¨›ïîRœ
+ŒE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$layout.class”ùíªÖWÂĞúR˜
+ˆE:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$id.class’ùíªÖWòÀÜÁRŸ
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R$styleable.classÒùíªÖWÌš£¹R•
+…E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\R.classÔùíªÖWôÌİµRŸ
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\BuildConfig.classŒùíªÖWŒÑŠ®R®
+E:\AndroidStudioProjects\SmartBJ\SlideingMenu\library\build\intermediates\classes\release\com\jeremyfeinstein\slidingmenu\lib\SlidingMenu$OnOpenListener.classÚûíªÖW”¼ÊZ–E:\android_dev\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jarZ_E:\android_dev\android-sdk_r24.4.1-windows\android-sdk-windows\platforms\android-26\android.jar

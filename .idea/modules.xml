@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SlideingMenu/SlideingMenu.iml" filepath="$PROJECT_DIR$/SlideingMenu/SlideingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideingMenu/library/SlideingMenu-library.iml" filepath="$PROJECT_DIR$/SlideingMenu/library/SlideingMenu-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartBJ.iml" filepath="$PROJECT_DIR$/SmartBJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/SmartBJ-library.iml" filepath="$PROJECT_DIR$/library/SmartBJ-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_sample/ViewPagerIndicator_sample.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_sample/ViewPagerIndicator_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SlideingMenu/library/library.iml" filepath="$PROJECT_DIR$/SlideingMenu/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/xutils3demo/xutils3demo.iml" filepath="$PROJECT_DIR$/xutils3demo/xutils3demo.iml" />
     </modules>
   </component>

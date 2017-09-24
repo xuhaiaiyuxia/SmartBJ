@@ -25,6 +25,7 @@ public abstract class BasePage {
         this.mContext = mContext;
         initView();
         initEvent();
+
     }
 
     private void initEvent() {
@@ -34,6 +35,10 @@ public abstract class BasePage {
                 mContext.getSlidingMenu().toggle();
             }
         });
+    }
+
+    public void selectPage(Integer index) {
+
     }
 
     private void initView() {

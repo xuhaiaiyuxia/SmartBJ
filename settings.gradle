@@ -1,1 +1,4 @@
 include ':app', ':xutils3demo', 'SlideingMenu:library'
+include ':ViewPagerIndicator_library'
+include ':library'
+include ':ViewPagerIndicator_sample'
