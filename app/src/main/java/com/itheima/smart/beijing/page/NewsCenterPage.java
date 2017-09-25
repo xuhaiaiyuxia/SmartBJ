@@ -1,5 +1,6 @@
 package com.itheima.smart.beijing.page;
 
+import android.text.TextUtils;
 import android.util.Log;
 import android.view.Gravity;
 import android.widget.TextView;
@@ -15,6 +16,9 @@ import com.itheima.smart.beijing.page.newscenter.InteractiveTabPage;
 import com.itheima.smart.beijing.page.newscenter.NewsTabPage;
 import com.itheima.smart.beijing.page.newscenter.TopicTabPage;
 import com.itheima.smart.beijing.pojo.NewsCenterData;
+import com.itheima.smart.beijing.utils.MyConstaints;
+import com.itheima.smart.beijing.utils.NetWorkUtils;
+import com.itheima.smart.beijing.utils.SPUtils;
 
 import org.xutils.common.Callback;
 import org.xutils.http.RequestParams;
@@ -48,7 +52,19 @@ public class NewsCenterPage extends BasePage {
         textView.setGravity(Gravity.CENTER);
         mFlContent.addView(textView);
 
-        getRemoteData();
+
+        int apnType = NetWorkUtils.getAPNType(mContext);
+        Log.d("NewsTagPageDetail", "apnType:" + apnType);
+        if (apnType != 0) {
+            getRemoteData();
+        } else {
+            String datas = SPUtils.getString(mContext, MyConstaints.NEWS_DATA_LOCAL_KEY, null);
+            if (!TextUtils.isEmpty(datas)) {
+                renderLeftMenu(datas);
+            }
+        }
+
+        // getRemoteData();
 
     }
 
@@ -70,6 +86,7 @@ public class NewsCenterPage extends BasePage {
         x.http().get(entity, new Callback.CommonCallback<String>() {
             @Override
             public void onSuccess(String result) {
+                SPUtils.putString(mContext, MyConstaints.NEWS_DATA_LOCAL_KEY,result);
                 renderLeftMenu(result);
 
             /*    if (mOnGetRemoteDataSuccessListener != null) {

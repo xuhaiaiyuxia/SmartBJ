@@ -1,16 +1,16 @@
 package com.itheima.smart.beijing.page.newscenter;
 
 import android.graphics.Color;
+import android.os.SystemClock;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
-import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import com.itheima.smart.beijing.R;
 import com.itheima.smart.beijing.activity.HomeActivity;
 import com.itheima.smart.beijing.pojo.NewsCenterData;
+import com.itheima.smart.beijing.tippage.NewsTagPageDetail;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.viewpagerindicator.TabPageIndicator;
 
@@ -38,7 +38,7 @@ public class NewsTabPage extends BaseNewsCenterPage {
     @Override
     public View initView() {
         View view = View.inflate(mContext, R.layout.newscenter_news, null);
-        view.setBackgroundColor(Color.TRANSPARENT);
+        view.setBackgroundColor(Color.WHITE);
         ButterKnife.bind(this, view);
         return view;
     }
@@ -87,13 +87,11 @@ public class NewsTabPage extends BaseNewsCenterPage {
 
         @Override
         public Object instantiateItem(ViewGroup container, int position) {
-            TextView textView = new TextView(mContext);
-            textView.setText(mChildrenList.get(position).title);
-            textView.setTextSize(20);
-            textView.setGravity(Gravity.CENTER);
-            textView.setTextColor(Color.BLACK);
-            container.addView(textView);
-            return textView;
+
+            NewsTagPageDetail newsTagPageDetail = new NewsTagPageDetail(mContext,mChildrenList.get(position));
+            View rootView = newsTagPageDetail.getRootView();
+            container.addView(rootView);
+            return rootView;
         }
 
         @Override

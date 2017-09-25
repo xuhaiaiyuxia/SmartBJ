@@ -25,7 +25,7 @@ public class HomeActivity extends SlidingFragmentActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
          setContentView(R.layout.item_sliding_right);
-       // x.Ext.init(this.getApplication());
+
         ButterKnife.bind(this);
         initView();
         initData();

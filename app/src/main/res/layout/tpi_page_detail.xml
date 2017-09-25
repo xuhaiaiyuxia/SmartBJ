@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!-- 轮播图 -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="175dip" >
+
+        <!-- ViewPager -->
+
+       <com.itheima.smart.beijing.custom.InterceptorPagerView
+           android:id="@+id/vp_tpi_page_detail_lunbo"
+           android:layout_width="fill_parent"
+           android:layout_height="fill_parent"/>
+
+        <!-- 图片描述和点的容器 -->
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#33000000" >
+
+            <!-- 描述信息 -->
+
+            <TextView
+                android:id="@+id/tv_tpi_page_detail_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:text="图片1描述"
+                android:textColor="#ffffff" />
+
+            <!-- 点的容器 -->
+
+            <LinearLayout
+                android:id="@+id/ll_tpi_page_detail_points"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dip"
+                android:orientation="horizontal" >
+
+
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- ListView新闻 -->
+    <ListView
+        android:id="@+id/lv_tpi_page_detail_newsdata"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </ListView>
+</LinearLayout>

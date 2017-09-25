@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.viewpagerindicator.TabPageIndicator
+    <com.itheima.smart.beijing.custom.InterceptorTabPageIndicator
         android:id="@+id/tpi_news_center_tab"
         android:layout_height="wrap_content"
         android:layout_width="fill_parent"
